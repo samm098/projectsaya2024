@@ -5,5 +5,4 @@ echo "Nama Lengkap : Samuel Ferinan Nababan";
 echo "Kelas : 22 MI B";
 echo "Tahun Akademik 2023/2024";
 echo "Semester Genap";
-echo "Tahun Akademik 2023/2024";
 ?>
